@@ -1,4 +1,4 @@
-# Vulnerability Search Tool
+# Vulnerability Search Tool [ oogway ]
 ## Overview
 The Vulnerability Search Tool is a command-line utility designed to facilitate the search for vulnerabilities and details about Common Vulnerabilities and Exposures (CVEs) using two different sources: VulnersX and ShifuCVEFinder. This tool provides a simple and efficient way for users to perform various vulnerability-related tasks, including searching for vulnerabilities in specific packages, retrieving detailed information about CVEs, and comparing vulnerabilities between different packages.
 
