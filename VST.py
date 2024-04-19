@@ -8,7 +8,7 @@ from shifucvefinder import search_by_cve_id
 from vulnersx import VulnersX
 
 def main():
-    print("Welcome to Vulnerability Search Tool!")
+    print("Welcome to oogway - Vulnerability Search Tool!")
 
     # Initialize instances of VulnersX and ShifuCVEFinder
     vulnersx = VulnersX()
@@ -54,7 +54,7 @@ def main():
                 search_by_cve_id(cve_id)
 
         elif choice == "3":
-            print("Exiting the Vulnerability Search Tool. Goodbye!")
+            print("Exiting the oogway - Vulnerability Search Tool. Goodbye!")
             break
 
         else:
