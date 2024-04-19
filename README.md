@@ -1,6 +1,10 @@
 # Vulnerability Search Tool [ oogway ]
 ## Overview
-The Vulnerability Search ( oogway ) Tool is a command-line utility designed to facilitate the search for vulnerabilities and details about Common Vulnerabilities and Exposures (CVEs) using two different sources: VulnersX and ShifuCVEFinder. This tool provides a simple and efficient way for users to perform various vulnerability-related tasks, including searching for vulnerabilities in specific packages, retrieving detailed information about CVEs, and comparing vulnerabilities between different packages.
+The Vulnerability Search ( oogway ) Tool is a command-line utility designed to facilitate the search for vulnerabilities and details about Common Vulnerabilities and Exposures (CVEs) using two different sources: VulnersX and SHIFU. This tool provides a simple and efficient way for users to perform various vulnerability-related tasks, including searching for vulnerabilities in specific packages, retrieving detailed information about CVEs, and comparing vulnerabilities between different packages.
+
+SHIFU : https://Github.com/Symbolexe/SHIFU
+
+VulnersX : https://Github.com/Symbolexe/VulnersX
 
 ## Features
 1. Search for Vulnerabilities using VulnersX
