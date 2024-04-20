@@ -57,12 +57,12 @@ VulnersX : https://Github.com/Symbolexe/VulnersX
 
 To install the Vulnerability Search Tool, simply clone this GitHub repository to your local machine:
 
-```git clone https://github.com/your-username/vulnerability-search-tool.git```
+```git clone https://github.com/your-username/oogway.git```
 
 Then, navigate to the project directory and install the necessary dependencies:
 
 ```
-cd vulnerability-search-tool
+cd voogway
 pip3 install -r requirements.txt
 ```
 ## Usage
