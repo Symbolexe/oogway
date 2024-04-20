@@ -68,7 +68,7 @@ pip3 install -r requirements.txt
 ## Usage
 After installation, you can run the tool by executing the following command:
 
-```python3 VST.py```
+```python3 oogway.py```
 
 Follow the on-screen instructions to perform various vulnerability-related tasks using the tool.
 ## Contributions
